@@ -56,18 +56,25 @@
    color: white;
   }
 
+  body {
+   border-radius: 5px;
+  }
+
  h1 {
     color: black;
-    border: 2px solid black
+    border: 2px solid black;
+    border-radius: 5px;
  }
  h2 {
    color: black;
-   border: 2px solid black
+   border: 2px solid black;
+   border-radius: 5px;
  }
 
  h3 {
    color: black;
-   border: 2px solid black
+   border: 2px solid black;
+   border-radius: 5px;
  }
 
 
