@@ -1,0 +1,74 @@
+ body {
+   color: black;
+   border: 2px solid black;
+   font-family: Helvetica;
+   background-color: rgb(64, 64, 64);
+   color: white;
+
+ }
+
+.first-last-title {
+   padding: 5px;
+   margin: 5px;
+   color: white;
+   font-size: 30px;
+}
+
+.first-last-name {
+   font-size: 50px;
+}
+
+ .blog-section {
+    padding: 5px;
+    margin: 5px;
+    color: white;
+  }
+
+ .blog-subsection {
+    padding: 5px;
+    margin: 5px;
+    color: white;
+  }
+
+ .blog-insert {
+    padding: 5px;
+    margin: 5px;
+    display: block;
+    color: white;
+  }
+
+  .blog-image-section {
+   padding: 5px;
+   margin: 5px;
+   display: block;
+   color: white;
+  }
+
+  .blog-image-para {
+   padding: 5px;
+   margin: 5px;
+   color: white;
+  }
+
+  .blog-image {
+   padding: 5px;
+   margin: 5px;
+   color: white;
+  }
+
+ h1 {
+    color: black;
+    border: 2px solid black
+ }
+ h2 {
+   color: black;
+   border: 2px solid black
+ }
+
+ h3 {
+   color: black;
+   border: 2px solid black
+ }
+
+
+
